@@ -1,0 +1,30 @@
+.ingresar-ubicacion-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.ingresar-ubicacion-textinput {
+  font-size: 16px;
+  border: 1px;
+  padding: 15px 15px;
+  border-radius: 20px;
+  background-size: 20px 20px;
+  background-color: #fff;
+  background-positon: right 10px center;
+}
+.ingresar-ubicacion-icon {
+  fill: #D9D9D9;
+  color: white;
+  width: 24px;
+  height: 24px;
+  margin-left: var(--dl-space-space-unit);
+}
+.ingresar-ubicacion-root-class-name {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-unit);
+  margin-left: 0px;
+}

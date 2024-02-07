@@ -1,0 +1,80 @@
+.navigation-links-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 1rem;
+  justify-content: center;
+}
+.navigation-links-link {
+  color: white;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 10px 12px;
+  list-style: none;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+.navigation-links-link:hover {
+  color: black;
+  border: none;
+  border-radius: 20px;
+  background-color: var(--dl-color-gray-white);
+}
+.navigation-links-link1 {
+  color: white;
+  width: auto;
+  height: auto;
+  padding: 10px 12px;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+.navigation-links-link1:hover {
+  color: black;
+  border: none;
+  border-radius: 20px;
+  background-color: white;
+}
+.navigation-links-link2 {
+  color: white;
+  width: auto;
+  height: auto;
+  padding: 10px 12px;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+.navigation-links-link2:hover {
+  color: black;
+  border: none;
+  background: white;
+  border-radius: 20px;
+}
+.navigation-links-link3 {
+  color: white;
+  width: auto;
+  height: auto;
+  padding: 10px 12px;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+.navigation-links-link3:hover {
+  color: black;
+  border: none;
+  background: white;
+  border-radius: 20px;
+}
+.navigation-links-link4 {
+  color: white;
+  width: auto;
+  height: auto;
+  padding: 10px 12px;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+.navigation-links-link4:hover {
+  color: black;
+  border: none;
+  background: white;
+  border-radius: 20px;
+}
+

@@ -1,0 +1,19 @@
+.ya-tienes-cuenta-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.ya-tienes-cuenta-link {
+  transition: 0.3s;
+}
+.ya-tienes-cuenta-link:hover {
+  color: white;
+  border: none;
+  border-radius: 20px;
+  background-color: #555;
+}
+

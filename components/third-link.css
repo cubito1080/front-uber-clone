@@ -1,0 +1,20 @@
+.third-link-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.third-link-link {
+  transition: 0.3s;
+}
+.third-link-link:hover {
+  color: white;
+  border: none;
+  border-radius: 20px;
+  background-color: #555;
+}
+.third-link-root-class-name {
+  margin-left: var(--dl-space-space-twounits);
+}

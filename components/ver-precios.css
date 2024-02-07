@@ -1,0 +1,26 @@
+.ver-precios-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ver-precios-button {
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: white;
+  transition: 0.3s;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.ver-precios-button:hover {
+  transform: scale(1.05);
+}
+.ver-precios-root-class-name {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-twounits);
+  margin-left: 0px;
+}

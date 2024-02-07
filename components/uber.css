@@ -1,0 +1,13 @@
+.uber-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  font-size: 60px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.uber-link {
+  color: white;
+}
+

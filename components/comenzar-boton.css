@@ -1,0 +1,26 @@
+.comenzar-boton-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.comenzar-boton-button {
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  transition: 0.3s;
+  font-weight: 500;
+  border-radius: 17px;
+  background-color: black;
+}
+.comenzar-boton-button:hover {
+  transform: scale(1.1);
+  background-color: #555;
+}
+.comenzar-boton-root-class-name {
+  margin-top: 0;
+}

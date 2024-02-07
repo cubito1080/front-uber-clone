@@ -1,0 +1,27 @@
+.text-second-main-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.text-second-main-container1 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.text-second-main-text {
+  color: rgba(8, 0, 0, 0.92);
+  width: auto;
+  height: auto;
+  font-size: 44px;
+  text-align: left;
+  font-weight: 700;
+  line-height: 1.2;
+}
+

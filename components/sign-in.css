@@ -1,0 +1,24 @@
+.sign-in-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-button {
+  color: black;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: 0.3s;
+  border-radius: 20px;
+  background-color: white;
+}
+.sign-in-button:hover {
+  color: var(--dl-color-gray-white);
+  background-color: black;
+}
+.sign-in-root-class-name {
+  margin-left: var(--dl-space-space-twounits);
+}

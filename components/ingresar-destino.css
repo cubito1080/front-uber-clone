@@ -1,0 +1,29 @@
+.ingresar-destino-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.ingresar-destino-textinput {
+  font-size: 16px;
+  border: 1px;
+  padding: 15px 15px;
+  border-radius: 20px;
+  background-size: 20px 20px;
+  background-color: #fff;
+  background-positon: right 10px center;
+}
+.ingresar-destino-icon {
+  fill: #D9D9D9;
+  width: 34px;
+  height: 34px;
+  align-self: center;
+  margin-left: var(--dl-space-space-unit);
+}
+.ingresar-destino-root-class-name {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-unit);
+  margin-left: 0;
+}

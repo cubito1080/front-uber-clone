@@ -1,0 +1,12 @@
+.main-right-side-image-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.main-right-side-image-root-class-name {
+  width: auto;
+  height: auto;
+}

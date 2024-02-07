@@ -1,0 +1,20 @@
+.texto-pide-un-viaje-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.texto-pide-un-viaje-text {
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.texto-pide-un-viaje-root-class-name {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  margin-left: 0;
+}

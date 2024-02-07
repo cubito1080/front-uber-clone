@@ -1,0 +1,22 @@
+.login-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-button {
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  transition: 0.3s;
+  border-radius: 20px;
+  background-color: black;
+}
+.login-button:hover {
+  color: black;
+  background-color: white;
+}
+

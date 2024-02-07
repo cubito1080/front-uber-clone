@@ -1,0 +1,21 @@
+.other-subtitle-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.other-subtitle-text {
+  color: rgba(8, 0, 0, 0.92);
+  width: auto;
+  height: auto;
+  font-size: 16px;
+  font-style: normal;
+  text-align: left;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.other-subtitle-root-class-name {
+  margin-top: var(--dl-space-space-twounits);
+}

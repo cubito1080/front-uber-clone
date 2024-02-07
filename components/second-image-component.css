@@ -1,0 +1,12 @@
+.second-image-component-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.second-image-component-root-class-name {
+  width: auto;
+  height: auto;
+}
